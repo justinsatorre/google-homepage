@@ -1,0 +1,2 @@
+This project is intended to introduce practical skills in basic HTML/CSS. The task is to emulate the Google search page visually, with none of the practicality.
+Through this process I was able to practice assigning CSS properties to elements. I've learned much about the way that an external stylesheet interacts with different HTML elements along with how to and why use them. It also taught me that I am still in the very early understanding of what front-end web development means and how deep it goes.
